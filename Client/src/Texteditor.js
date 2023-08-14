@@ -80,7 +80,7 @@ export default function TextEditor() {
       theme: "snow",
     });
     q.disable();
-    q.setText("Loading...");
+    q.setText("Loading....");
     setQuill(q);
   }, []);
   return <div className="container" ref={wrapperRef}></div>;
