@@ -27,4 +27,6 @@ c. The app is not hosted. Please run it locally.
 2.   Once you have cloned your application, run the command "npm install" on your terminal so that the necessary dependencies are installed on your local device.
 3.   You will be redirected to the localhost:3000 website on your browser.
 4.   Click the "create document" button to create a new document and start typing.
-5.   To access the same document on a different browser or device, just copy paste the link to access it without losing your current data.
+5.   To access the same document on a different browser or device, just copy and paste the link to access it without losing your current data.
+
+### SCREENSHOTS
