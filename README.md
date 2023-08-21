@@ -23,7 +23,7 @@ c. The app is not hosted. Please run it locally.
 
 ### RUNNING THE APPLICATION: <a name="running-the-application"></a>
 
-1.   Clone this repository using this link "https://github.com/jayanthkodurkumar/Docuworks-Client.git" (Copy and paste this on your terminal).
+1.   Clone this repository using this command " git clone https://github.com/jayanthkodurkumar/Docuworks-Client.git " (Copy and paste this on your terminal).
 2.   Once you have cloned your application, run the command "npm install" on your terminal so that the necessary dependencies are installed on your local device.
 3.   You will be redirected to the localhost:3000 website on your browser.
 4.   Click the "create document" button to create a new document and start typing.
